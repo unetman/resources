@@ -1,5 +1,5 @@
 # Various resources
 
-Dictionaries: Animals, Colors, Country, City, First Name, Last Name, etc.
+Dictionaries: Animals, Colors, Country, City, First Name, Last Name, Airport, etc.
 
-Semantic Types: Airport, etc.
+Other type resources...
